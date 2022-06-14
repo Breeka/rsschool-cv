@@ -1,1 +1,1 @@
-# rsschool-cv
+https://breeka.github.io/rsschool-cv/
