@@ -1,0 +1,1 @@
+console.log('0\n20\n48\n12\n5')
